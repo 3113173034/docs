@@ -134,7 +134,7 @@
     "dedent": "^0.7.0",
     "del": "^4.1.1",
     "domwaiter": "^1.1.0",
-    "eslint": "^7.13.0",
+    "eslint": "^9.39.2",
     "eslint-config-standard": "^16.0.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
